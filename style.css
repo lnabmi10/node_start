@@ -1,4 +1,13 @@
+*{
+    background: rgb(175, 159, 159);
+}
+
 h2 {
     color : green;
     background-color: red;
+}
+
+h1{
+    color: violet;
+    background: #000;
 }
